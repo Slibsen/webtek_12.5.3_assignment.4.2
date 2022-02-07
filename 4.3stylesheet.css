@@ -1,0 +1,23 @@
+header, footer
+{
+    background-color: blue;
+    width: 100%;
+    height: 100px;
+    float: left;
+}
+.left
+{
+    background-color: blue;
+    width: 46%;
+    height: 400px;
+    float: left;
+    margin: 2% 2% 2% 2%;
+}
+.right, .middle
+{
+    background-color: blue;
+    width: 21%;
+    height: 400px;
+    float: left;
+    margin: 2% 2% 2% 2%;
+}
